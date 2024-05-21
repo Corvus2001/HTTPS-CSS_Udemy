@@ -1,0 +1,7 @@
+b ~ span > b {
+  color: navy;
+}
+
+p  span.warnung {
+  color: red;
+}

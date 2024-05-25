@@ -1,0 +1,23 @@
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Test1{
+    font-family: serif;
+}
+#Test2{
+    font-family: sans-serif;
+}
+#Test3{
+    font-family: cursive;
+}
+#Test4{
+    font-family: fantasy;
+}
+#Test5{
+    font-family: monospace;
+}
+
+#Test6{
+    font-family: 'Jacquard 12', sans-serif;
+}

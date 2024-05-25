@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../UdemyKursProjekt.iml" filepath="$PROJECT_DIR$/../UdemyKursProjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/border/border.iml" filepath="$PROJECT_DIR$/border/border.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div/div.iml" filepath="$PROJECT_DIR$/div/div.iml" />
     </modules>
   </component>
 </project>
